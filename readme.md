@@ -1,6 +1,6 @@
 -  ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
-R: git reset --hard HEAD~1, porque con el comando git reset HEAD~1 me muevo al commit anterior
+R: git reset --hard HEAD\~1, porque con el comando git reset HEAD\~1 me muevo al commit anterior
    y con el modificador --hard, le indico a git que modifique mi workf copy, ya que si no se lo indico
    git me deja los cambios en el working copy.
 
